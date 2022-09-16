@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<nav>
+<a href="file:///C:/Users/Marlesa/Desktop/HTML%20document/Assignment.html">Home</a>
+<a href="file:///C:/Users/Marlesa/Desktop/HTML%20document/Dog.html">Dog Picture</a>
+<a href-"file:///C:/Users/Marlesa/Desktop/HTML%20document/Dog.html">Dog Video</a>
+</nav>
+<title> Dog's Vidoes</title>
+<main>
+<h1> Enjoys the Videos</h1
+<p>Below the image is a video</p>
+<img src="dog.jpg"/>
+<a href="https://www.youtube.com/watch?v=6mtKy_iSq90">Enjoy dogs complilationM</a>
+</main>
+</html>
